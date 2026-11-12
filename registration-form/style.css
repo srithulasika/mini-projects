@@ -1,0 +1,11 @@
+.error {
+  color: #c0392b;
+  display: block;
+  min-height: 1.2em;
+}
+input.invalid {
+  border: 2px solid #c0392b;
+}
+input.valid {
+  border: 2px solid #27ae60;
+}

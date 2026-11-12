@@ -4,6 +4,24 @@ const email = document.querySelector('#email');
 const phone = document.querySelector('#phone');
 const password = document.querySelector('#password');
 
+
+function isValidEmail(email) {
+    return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+}
+
+function isValidPhone(phone) {
+    return /^[6-9][0-9]{9}$/.test(phone);
+}
+
+function showError(input, message) {
+    const error = document.querySelector('#' + input.id + '-error');
+
+    error.textContent = message;
+
+    input.classList.toggle('invalid', message !== '');
+    input.classList.toggle('valid', message === '');
+}
+
 function validate(){
     let ok = true;
 
