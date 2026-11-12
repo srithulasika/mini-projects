@@ -34,6 +34,7 @@ A collection of beginner-friendly JavaScript mini projects built as part of my J
 
 ![Live Counter - Negative Count](live-counter/live-counter%20%282%29.png)
 
+
 ### 3. Registration Form Validation
 
 **Features:**
@@ -47,11 +48,13 @@ A collection of beginner-friendly JavaScript mini projects built as part of my J
 
 **Screenshots:**
 
-![Registration Form - Screenshot 1](registration-form/registration-form%281%29.png)
+### 3. Registration Form
 
-![Registration Form - Screenshot 2](registration-form/registration-form%282%29.png)
+![Registration Form - Screenshot 1](registration-form/registration-form%20%281%29.png)
 
-![Registration Form - Screenshot 3](registration-form/registration-form%283%29.png)
+![Registration Form - Screenshot 2](registration-form/registration-form%20%282%29.png)
+
+![Registration Form - Screenshot 3](registration-form/registration-form%20%283%29.png)
 
 ### 4. To-Do List
 
