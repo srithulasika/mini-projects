@@ -28,9 +28,11 @@ A collection of beginner-friendly JavaScript mini projects built as part of my J
 
 **Screenshots:**
 
-![Live Counter - Positive Count](live-counter/live-counter%281%29.png)
+### 2. Live Counter
 
-![Live Counter - Negative Count](live-counter/live-counter%282%29.png)
+![Live Counter - Positive Count](live-counter/live-counter%20%281%29.png)
+
+![Live Counter - Negative Count](live-counter/live-counter%20%282%29.png)
 
 ### 3. Registration Form Validation
 
