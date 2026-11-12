@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <script src="script.js"></script>
+</head>
+<body>
+    <form id="reg" novalidate>
+        <label>Name</label>
+        <input type="text" id="name">
+        <small class="error" id="name-error"></small>
+
+        <label>Email</label>
+        <input type="text" id="email">
+        <small class="error" id="email-error">
+        </small>
+
+        <label>Phone</label>
+        <input type="password" id="password">
+        <small class="error" id="password-error"></small>
+
+        <label>Password</label>
+        <input type="password" id="password">
+        <small class="error" id="password-error"></small>
+
+        <button type="submit">Register</button>
+    </form>
+
+    <p id="success"></p>
+</body>
+</html>
